@@ -19,7 +19,7 @@ With Docker you can set up different "containers" to run specific stacks on your
 Once the server is running (using the start script), you can use the server as follows:
 * Open your browser and navigate to http://localhost.  You should see an overview of your PHP installation.
 * All files and folders inside of the [www/html](www/html) folder are accessible through http://localhost
-* You can access phpMyAdmin through http://localhost
+* You can access phpMyAdmin through http://localhost:8080
 * You can shut down the server by opening the `stop` script.
 
 ## Development 3 Webpack usage
